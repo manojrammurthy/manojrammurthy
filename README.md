@@ -93,7 +93,7 @@ GitHub Actions • Azure • AWS • Linux servers • Nginx • CI/CD • Virtu
 ## 📫 **Connect With Me**
 
 🌐 Personal Blog: [https://manroxdrag.wordpress.com](https://manroxdrag.wordpress.com)
-📧 Email: [manojrammurthy@gmail.com](mailto:manojrammurthy@gmail.com)
+📧 Email: [manojrammurthy@gmail.com](mailto:manojramoorthy@gmail.com)
 💼 LinkedIn: *Add here if you have one*
 📍 Bangalore, India
 
